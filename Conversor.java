@@ -2,6 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Conversor {
 	
+	//Método principal
 	public static void main(String[] args) {
 		
 		String[] monedas = {"Dolares","Euros","Onzas","P. Argentino","Yen"};
